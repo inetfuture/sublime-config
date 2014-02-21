@@ -1,0 +1,37 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"Better CoffeeScript",
+		"Bootstrap 3 Jade Snippets",
+		"CoffeeComplete Plus (Autocompletion)",
+		"ColorPicker",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Grunt",
+		"INI",
+		"Jade",
+		"Jedi - Python autocompletion",
+		"JSHint Gutter",
+		"knockdown",
+		"LESS",
+		"Local History",
+		"nginx",
+		"Phpcs",
+		"Pretty JSON",
+		"Python Checker",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-coffeelint",
+		"SublimeREPL",
+		"TernJS",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}

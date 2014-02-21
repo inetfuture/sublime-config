@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+angular.module('${1:name}', [
+	'${2:deps}'
+])
+	$3
+]]></content>
+    <tabTrigger>nm</tabTrigger>
+    <scope>source.coffee</scope>
+</snippet>
