@@ -1,0 +1,4 @@
+#! /bin/sh
+
+unset UBUNTU_MENUPROXY
+/usr/bin/subl $*
