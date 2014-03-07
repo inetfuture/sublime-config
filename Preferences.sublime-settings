@@ -5,9 +5,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Phpcs",
 		"TernJS",
-		"Vintage"
+		"Vintage",
+		"Phpcs"
 	],
 	"rulers":
 	[
