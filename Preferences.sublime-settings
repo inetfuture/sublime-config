@@ -1,12 +1,13 @@
 {
 	"color_scheme": "Packages/User/CustomMonokaiBright (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 13.0,
+	"font_size": 14.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage",
 		"TernJS",
+		"EditorConfig",
 		"Phpcs"
 	],
 	"rulers":
@@ -14,7 +15,7 @@
 		119
 	],
 	"soda_classic_tabs": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
