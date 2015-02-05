@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AngularJS",
@@ -8,6 +11,7 @@
 		"ColorPicker",
 		"CSScomb",
 		"DocBlockr",
+		"eco",
 		"EditorConfig",
 		"EJS",
 		"Emmet",
@@ -27,6 +31,7 @@
 		"LESS",
 		"Local History",
 		"nginx",
+		"Package Control",
 		"Phpcs",
 		"Pretty JSON",
 		"Python Checker",

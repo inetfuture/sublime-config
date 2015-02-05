@@ -1,0 +1,8 @@
+{
+  "extensions":
+  [
+    "jade",
+    "tag"
+  ],
+  "tab_size": 2
+}
