@@ -1,22 +1,23 @@
 {
 	"color_scheme": "Packages/User/CustomMonokaiBright (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 13.0,
+	"font_size": 16.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage",
-		"EditorConfig",
-		"JsFormat",
 		"JSHint Gutter",
-		"JavaScript & NodeJS Snippets",
+		"JsFormat",
 		"TernJS",
-		"Phpcs"
+		"EditorConfig",
+		"Phpcs",
+		"JavaScript & NodeJS Snippets"
 	],
 	"rulers":
 	[
 		119
 	],
+	"scroll_past_end": true,
 	"soda_classic_tabs": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
