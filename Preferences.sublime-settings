@@ -5,12 +5,13 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"JSHint Gutter",
-		"JsFormat",
 		"TernJS",
-		"EditorConfig",
 		"Phpcs",
+		"Vintage",
+		"EditorConfig",
+		"SublimeCodeIntel",
+		"JsFormat",
+		"JSHint Gutter",
 		"JavaScript & NodeJS Snippets"
 	],
 	"rulers":
