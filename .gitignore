@@ -1,3 +1,4 @@
 *.cache
 *.last-run
 .SublimeREPLHistory
+WakaTime.sublime-settings

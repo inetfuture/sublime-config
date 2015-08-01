@@ -5,6 +5,8 @@
 	"installed_packages":
 	[
 		"AngularJS",
+		"API Blueprint",
+		"Babel",
 		"Better CoffeeScript",
 		"Bootstrap 3 Jade Snippets",
 		"CoffeeComplete Plus (Autocompletion)",
@@ -45,6 +47,7 @@
 		"Sublimerge Pro",
 		"TernJS",
 		"Theme - Soda",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"WakaTime"
 	]
 }
