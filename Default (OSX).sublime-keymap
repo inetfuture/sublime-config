@@ -1,4 +1,5 @@
 [
   { "keys": ["command+shift+up"], "command": "swap_line_up" },
   { "keys": ["command+shift+down"], "command": "swap_line_down" },
+  { "keys": ["super+k", "super+i"], "command": "fold_by_level", "args": {"level": 1} }
 ]
