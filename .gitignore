@@ -1,4 +1,7 @@
 *.cache
 *.last-run
+*.log
+*~
+.DS_Store
 .SublimeREPLHistory
 WakaTime.sublime-settings

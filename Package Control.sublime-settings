@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -34,7 +35,9 @@
 		"Local History",
 		"nginx",
 		"Package Control",
+		"PHP Companion",
 		"Phpcs",
+		"phpfmt",
 		"Pretty JSON",
 		"Python Checker",
 		"Sass",
@@ -48,6 +51,7 @@
 		"TernJS",
 		"Theme - Soda",
 		"Theme - Spacegray",
-		"WakaTime"
+		"WakaTime",
+		"Xdebug Client"
 	]
 }

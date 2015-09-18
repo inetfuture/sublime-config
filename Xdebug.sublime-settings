@@ -1,0 +1,5 @@
+{
+  "port": 9009,
+  "close_on_stop": true,
+  "debug": true
+}
