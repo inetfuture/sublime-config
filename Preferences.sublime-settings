@@ -1,10 +1,11 @@
 {
 	"color_scheme": "Packages/User/CustomMonokaiBright (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 16.0,
+	"font_size": 17.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"AngularJS",
 		"EditorConfig",
 		"JavaScript & NodeJS Snippets",
 		"JsFormat",
@@ -12,12 +13,14 @@
 		"PHP Companion",
 		"Phpcs",
 		"phpfmt",
+		"SublimeLinter",
+		"Sublimerge Pro",
 		"TernJS",
 		"Vintage"
 	],
 	"rulers":
 	[
-		119
+		120
 	],
 	"scroll_past_end": true,
 	"soda_classic_tabs": true,

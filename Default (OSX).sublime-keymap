@@ -2,5 +2,7 @@
   { "keys": ["command+shift+up"], "command": "swap_line_up" },
   { "keys": ["command+shift+down"], "command": "swap_line_down" },
   { "keys": ["super+k", "super+i"], "command": "fold_by_level", "args": {"level": 1} },
-  { "keys": ["command+shift+r"], "command": "reveal_in_side_bar"}
+  { "keys": ["command+shift+r"], "command": "reveal_in_side_bar"},
+  { "keys": ["ctrl+command+left"], "command": "jump_back" },
+  { "keys": ["ctrl+command+right"], "command": "jump_forward" }
 ]
