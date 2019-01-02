@@ -1,7 +1,27 @@
 {
 	"bootstrapped": true,
+	"downloader_precedence":
+	{
+		"osx":
+		[
+			"curl"
+		]
+	},
 	"in_process_packages":
 	[
+		"Ecmascript Syntax",
+		"FileDiffs",
+		"GitGutter",
+		"Grunt",
+		"LESS",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Theme - Spacegray",
+		"TOML",
+		"TypeScript",
+		"URLEncode"
 	],
 	"installed_packages":
 	[
@@ -22,6 +42,7 @@
 		"Emmet",
 		"Emmet Css Snippets",
 		"FileDiffs",
+		"GBK Support",
 		"Git",
 		"GitGutter",
 		"Grunt",
@@ -48,11 +69,12 @@
 		"RAML Syntax Highlighter",
 		"Sass",
 		"SideBarEnhancements",
+		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
 		"SublimeLinter-coffeelint",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-phpcs",
 		"SublimeREPL",
 		"Sublimerge Pro",
@@ -60,6 +82,7 @@
 		"TernJS",
 		"Theme - Soda",
 		"Theme - Spacegray",
+		"TOML",
 		"TypeScript",
 		"URLEncode",
 		"Xdebug Client"

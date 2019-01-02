@@ -1,19 +1,30 @@
 {
 	"color_scheme": "Packages/User/CustomMonokaiBright (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 18.0,
+	"font_size": 17.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"AngularJS",
+		"Ecmascript Syntax",
 		"EditorConfig",
+		"Grunt",
 		"JavaScript & NodeJS Snippets",
-		"JsFormat",
+		"Jedi - Python autocompletion",
 		"PHP Companion",
 		"Phpcs",
 		"phpfmt",
+		"Python Checker",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-eslint",
 		"Sublimerge Pro",
 		"TernJS",
+		"Theme - Spacegray",
+		"TOML",
+		"TypeScript",
+		"URLEncode",
 		"Vintage"
 	],
 	"rulers":
