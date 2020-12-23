@@ -1,0 +1,12 @@
+{
+  // http://www.sublimetext.com/docs/3/themes.html
+  "variables": {
+    // "font_face": "system",
+  },
+  "rules": [
+    {
+      "class": "sidebar_label",
+      "font.size":  18,
+    }
+  ],
+}

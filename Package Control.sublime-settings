@@ -9,19 +9,6 @@
 	},
 	"in_process_packages":
 	[
-		"Ecmascript Syntax",
-		"FileDiffs",
-		"GitGutter",
-		"Grunt",
-		"LESS",
-		"Sass",
-		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-eslint",
-		"Theme - Spacegray",
-		"TOML",
-		"TypeScript",
-		"URLEncode"
 	],
 	"installed_packages":
 	[
@@ -60,6 +47,7 @@
 		"Local History",
 		"nginx",
 		"Package Control",
+		"PackageDev",
 		"PHP Companion",
 		"Phpcs",
 		"phpfmt",
