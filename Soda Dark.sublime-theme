@@ -6,7 +6,7 @@
   "rules": [
     {
       "class": "sidebar_label",
-      "font.size":  18,
+      "font.size":  20,
     }
   ],
 }
