@@ -1,22 +1,10 @@
 {
-	"color_scheme": "Packages/User/CustomMonokaiBright (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 18.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"AngularJS",
-		"EditorConfig",
-		"JavaScript & NodeJS Snippets",
-		"Jedi - Python autocompletion",
-		"PHP Companion",
-		"Phpcs",
-		"phpfmt",
-		"Python Checker",
-		"SublimeLinter-coffeelint",
-		"Sublimerge Pro",
-		"TernJS",
-		"Vintage"
+		"Markdown",
 	],
 	"rulers":
 	[
@@ -25,8 +13,8 @@
 	"scroll_past_end": true,
 	"soda_classic_tabs": true,
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"wrap_width": 120
+	"wrap_width": 120,
+	"enable_typescript_language_service": false,
 }
