@@ -5,6 +5,7 @@
 	"ignored_packages":
 	[
 		"Markdown",
+		"Vintage",
 	],
 	"rulers":
 	[

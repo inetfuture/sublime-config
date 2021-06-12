@@ -25,6 +25,7 @@
 		"FileDiffs",
 		"GBK Support",
 		"Git",
+		"GitGutter",
 		"Grunt",
 		"HTML Mustache",
 		"INI",
@@ -59,6 +60,7 @@
 		"TOML",
 		"TypeScript",
 		"URLEncode",
+		"Vue Syntax Highlight",
 		"Xdebug Client",
 	],
 }
