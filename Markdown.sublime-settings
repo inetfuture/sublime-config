@@ -3,5 +3,5 @@
   "line_numbers": true,
   "wrap_width": 120,
   "rulers": [120],
-  "mde.list_indent_auto_switch_bullet": false
+  "mde.list_indent_auto_switch_bullet": false,
 }
