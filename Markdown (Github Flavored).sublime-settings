@@ -1,5 +1,7 @@
 {
-    "wrap_width": 120,
-    "line_numbers": true,
-    "trim_trailing_white_space_on_save": true
+	"extensions":
+	[
+		"markdown",
+		"mdown"
+	]
 }
