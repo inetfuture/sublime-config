@@ -1,21 +1,18 @@
 {
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 16.0,
+	"font_size": 18.0,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Markdown",
-		"Vintage",
-	],
-	"rulers":
-	[
-		120
-	],
+	"rulers":	[120],
 	"scroll_past_end": true,
-	"soda_classic_tabs": true,
+	"spell_check": false,
 	"tab_size": 2,
+	"theme": "Default Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
 	"wrap_width": 120,
-	"enable_typescript_language_service": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
 }
